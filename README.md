@@ -70,7 +70,7 @@ To perform in-depth EDA on the Zomato dataset and answer questions like:
 - Bar plots of rating counts vs colors
 - Pie chart of restaurants by country
 - Country-wise restaurant distribution
-- Delivery and booking availability distribution
+- Delivery availability option among countires
 
 ---
 
@@ -80,8 +80,8 @@ To perform in-depth EDA on the Zomato dataset and answer questions like:
 - **White rating color** corresponds to **"Not Rated"**, and makes up a large portion.
 - **'Dark Green' color** represents **Excellent** rating (above 4.5).
 - Some countries use **unique currencies** like QAR (Qatar), ZAR (South Africa).
-- **Table booking** is available in select countries and mostly in higher-end restaurants.
 - **Online delivery** is primarily supported in India and UAE.
+- New Delhi, Gurgaon, Noida, Faridabad, Gaziabad among top cities that uses **Zomato** in **India**
 
 ---
 
